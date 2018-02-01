@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>vbus_sockets</name>
+  <version>0.0.0</version>
+  <description>The vbus_sockets package</description>
+  <maintainer email="laurent.malaterre@uca.fr">Laurent Malaterre</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
